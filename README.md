@@ -11,4 +11,4 @@ watermarks and to describe their functionality in data security.
 
 # Examples Taken :
 
-Image and the audio file are included in the repository.
+Image and the audio files are included in the repository.
